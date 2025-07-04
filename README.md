@@ -11,7 +11,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - [Awesome Honeypots ![Awesome Honeypots](https://github.com/sindresorhus/awesome)](#awesome-honeypots-) 
 - [Contents](#contents)
   - [Related Lists](#related-lists)
-  - [Honeypots](#honeypots)
+  - [Honeypots](#honeypots) 
   - [Honeyd Tools](#honeyd-tools)
   - [Network and Artifact Analysis](#network-and-artifact-analysis) 
   - [Data Tools](#data-tools)   
