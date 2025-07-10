@@ -2,7 +2,7 @@
 
 A curated list of awesome honeypots, plus related components and much more, divided into categories such as Web, services, and others, with a focus on free and open source projects.
 
-There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](CONTRIBUTING.md).
+There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](CONTRIBUTING.md). 
 
 Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindresorhus/awesome). 
  
