@@ -15,7 +15,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [Honeyd Tools](#honeyd-tools)  
   - [Network and Artifact Analysis](#network-and-artifact-analysis)   
   - [Data Tools](#data-tools)    
-  - [Guides](#guides)  
+  - [Guides](#guides)   
  
 ## Related Lists
 
