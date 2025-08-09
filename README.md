@@ -6,7 +6,7 @@ There is no pre-established order of items in each category, the order is for co
 
 Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindresorhus/awesome). 
  
-# Contents        
+# Contents         
       
 - [Awesome Honeypots ![Awesome Honeypots](https://github.com/sindresorhus/awesome)](#awesome-honeypots-)  
 - [Contents](#contents)   
